@@ -1,0 +1,7 @@
+/* Visual Studio Settings File */
+{
+  "debugging.general.enableDiagnosticToolsWindow": false,
+  "debugging.general.enablePerformanceTips": false,
+  "languages.cpp.intelliSense.enable64bitIntelliSense": true,
+  "languages.cpp.intelliSense.browsingNavigation.showDatabaseExternalDependenciesFolder": false
+}
