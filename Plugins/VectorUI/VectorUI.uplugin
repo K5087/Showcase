@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "VectorUI",
+	"Description": "import skia create UI based vector",
+	"Category": "Other",
+	"CreatedBy": "moke",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "VectorUI",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

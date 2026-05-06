@@ -1,0 +1,34 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 5,
+	"VersionName": "2.2.0",
+	"FriendlyName": "Rotary-Wing Aircraft",
+	"Description": "Helicopters for Unreal Engine",
+	"Category": "Gameplay",
+	"CreatedBy": "Danny McGee",
+	"CreatedByURL": "https://github.com/dannymcgee",
+	"DocsURL": "https://github.com/dannymcgee/Unreal_RotaryWingAircraft",
+	"MarketplaceURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "RotaryWingAircraft",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "RotaryWingAircraftEditor",
+			"Type": "UncookedOnly",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "EnhancedInput",
+			"Enabled": true
+		}
+	]
+}
